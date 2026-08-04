@@ -31,7 +31,7 @@
             <div className="rounded-2xl border border-cyan-500/20 bg-white/5 backdrop-blur-lg p-8 hover:border-cyan-400 transition">
 
               <span className="text-cyan-400 font-semibold">
-                Apr 2024 – Present
+                Apr 2024 – Sep 2026
               </span>
 
               <h3 className="text-3xl font-bold mt-2">
